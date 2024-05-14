@@ -1,0 +1,15 @@
+com.sjc.core.bank.system
+com.sjc.core.bank.system.config
+com.sjc.core.bank.system.config.external.client
+com.sjc.core.bank.system.controller
+com.sjc.core.bank.system.filter
+com.sjc.core.bank.system.interceptor
+com.sjc.core.bank.system.model.dto
+com.sjc.core.bank.system.model.dto.entity
+com.sjc.core.bank.system.model.dto.mapper
+com.sjc.core.bank.system.model.entity
+com.sjc.core.bank.system.model.mapper
+com.sjc.core.bank.system.repository
+com.sjc.core.bank.system.service
+com.sjc.core.bank.system.service.impl
+com.sjc.core.bank.system.util

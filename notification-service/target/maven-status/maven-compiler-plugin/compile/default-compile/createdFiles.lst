@@ -1,0 +1,6 @@
+com\sjc\core\bank\system\AsyncConfiguration.class
+com\sjc\core\bank\system\controller\AsyncService.class
+com\sjc\core\bank\system\NotificationServiceAplication.class
+com\sjc\core\bank\system\controller\EmailService.class
+com\sjc\core\bank\system\controller\ReportDto.class
+com\sjc\core\bank\system\controller\NoticationController.class
